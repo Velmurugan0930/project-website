@@ -2,7 +2,8 @@
 <html>
      <head>
      </head>
-         <body>Welcome to HINDUSTHAN</body>
-  <h1>Hindusthan college is an Engineering College.It is loactetd in Coimbatore</h1>
+         <body></body>
+  <h1>Welcome to HINDUSTHAN </h1>
+     <p>Hindusthan college is an Engineering College.It is loactetd in Coimbatore</p>
   
 </html>
